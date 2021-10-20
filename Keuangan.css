@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    padding : 20px;
+}
+
+table{
+    width:100%
+}
+
+table,th, td{
+    border : 1px solid black;
+}
